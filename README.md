@@ -3,6 +3,10 @@ Not sure what we are doing with this
 Adding people for now.
 Let's just get used to the environment first
 
+Added a Test_BLank_Project in current folder, this project is used to get used to C# and visual studio. We will be using the form class to actually build Danny's retarded calculator
+
+
+
 Build Process:
 We are using Visual Studio as our IDE. It seems pretty powerful with the UI drag and drop.
 (Always wanted to revisit C# since high school)
