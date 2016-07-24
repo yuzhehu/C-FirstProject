@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            System.Console.WriteLine("Hello World");
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
